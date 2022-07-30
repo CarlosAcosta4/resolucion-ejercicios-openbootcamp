@@ -3,7 +3,7 @@ os.system('cls')
 
 texto = 'Hola mundo'
 
-texto = 'Hola mundo , mi nombre es carlos'
+texto = 'Mi nombre es Carlos'
 
 print(texto )
 
